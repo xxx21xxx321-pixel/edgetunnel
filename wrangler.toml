@@ -7,3 +7,6 @@ keep_vars = true
 binding = "KV"
 id = "3b7cab711d5e4afa96aa93672032fb09"
 # Trigger Cloudflare build
+[observability]
+enabled = true
+head_sampling_rate = 1
