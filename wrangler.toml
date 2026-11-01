@@ -6,3 +6,4 @@ keep_vars = true
 [[kv_namespaces]]
 binding = "KV"
 id = "3b7cab711d5e4afa96aa93672032fb09"
+# Trigger Cloudflare build
